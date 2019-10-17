@@ -1,0 +1,24 @@
+{
+  "name": "@srajagop/react-simple-filereader",
+  "version": "0.0.1",
+  "description": "A very simple react based file reader component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srajagop/react-simple-filereader.git"
+  },
+  "keywords": [
+    "react",
+    "filereader",
+    "browser"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/srajagop/react-simple-filereader/issues"
+  },
+  "homepage": "https://github.com/srajagop/react-simple-filereader#readme"
+}
